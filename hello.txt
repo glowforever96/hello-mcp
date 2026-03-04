@@ -1,0 +1,7 @@
+# Hello MCP!
+
+GitHub MCP를 통해 작성된 첫 커밋입니다.
+
+- 브랜치: feature/hello-mcp-test
+- 테스트 일시: 2025-03-04
+- MCP로 PR 생성 및 머지까지 진행합니다. 🚀
